@@ -1,0 +1,38 @@
+/*  
+propiedad creada por el desarrollador */
+
+body{
+
+    background-color: rgb(196, 202, 171);
+    /*margin-left: 50px;
+    margin-right: 50px;*/
+    margin: 0 50px;
+}
+
+.red-text{
+
+    color: rgb(240, 11, 11);
+    font-family: arial ;
+}
+
+.blue-text{
+    
+    color: blue;
+    text-shadow: 3px 3px 3px grey;
+
+}
+
+.card{
+
+    border:0px solid black;
+    padding: 12px;
+    background-color: white;
+    box-shadow: 3px 3px 15px grey;
+    border-radius: 5px;
+    margin-top: 50px;
+
+}
+
+.card h3{
+    text-align: center;
+}
